@@ -1,4 +1,4 @@
-# Relatório_MÓDULO_2_Opção_1_Hands_on
+# Relatório_Módulo_2_Opção_1_Hands_on
 
 RELATÓRIO – Opção 1 (Hands‑on)
 O que foi defendido, o que foi atacado, limites do exercício. 
